@@ -1,5 +1,3 @@
-Aqui está um exemplo de README.md para o seu projeto:
-
 ---
 
 # Sistema Bancário Simples em Python
